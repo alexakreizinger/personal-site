@@ -16,18 +16,18 @@
   weight = 10
 
 [[main]]
-  name = "Experience"
-  pageRef = "experience"
+  name = "Skills"
+  pageRef = "skills"
   weight = 20
 
 [[main]]
-  name = "Skills"
-  pageRef = "skills"
+  name = "Experience"
+  pageRef = "experience"
   weight = 30
 
 [[main]]
-  name = "Portfolio"
-  pageRef = "portfolio"
+  name = "Samples"
+  pageRef = "samples"
   weight = 40
 
 [[main]]
