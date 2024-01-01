@@ -11,23 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
-  pageRef = "about"
-  weight = 10
-
-[[main]]
-  name = "Experience"
-  pageRef = "experience"
-  weight = 20
-
-[[main]]
-  name = "Skills"
-  pageRef = "skills"
-  weight = 30
-
-[[main]]
-  name = "Portfolio"
-  pageRef = "portfolio"
+  name = "Samples"
+  pageRef = "samples"
   weight = 40
 
 [[main]]
