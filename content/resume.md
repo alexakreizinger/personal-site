@@ -1,6 +1,7 @@
 ---
-title: "Resume"
+title: "Resume (PDF)"
 layout: "simple"
 slug: resume
 ---
-blah blah blah
+
+{{< pdfDisplay "/AK_Resume.pdf" >}}
