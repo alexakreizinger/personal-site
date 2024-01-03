@@ -4,3 +4,37 @@
 
 [build.environment]
   HUGO_VERSION = "0.121.1"
+
+[[headers]]
+for = "/samples"
+  [headers.values]
+    X-Robots-Tag = "noindex"
+
+[[headers]]
+for = "/resume"
+  [headers.values]
+    X-Robots-Tag = "noindex"
+
+[[redirects]]
+  from = "https://ak-personal-site.netlify.app"
+  to = "https://alexakreizinger.com"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://ak-personal-site.netlify.app/*"
+  to = "https://samples.alexakreizinger.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://ak-personal-site.netlify.app"
+  to = "http://alexakreizinger.com"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://ak-personal-site.netlify.app/*"
+  to = "http://alexakreizinger.com/:splat"
+  status = 301
+  force = true
