@@ -9,7 +9,7 @@ aliases:
 During my time as a technical writer, I've written a *lot* of documentation—but don't just take my word for it!
 
 ## User guides
-Everything from step-by-step installation guides to big-picture conceptual overviews. (These are all based on real docs that I've published, but any company/product names have been anonymized.)
+Everything from step-by-step installation guides to big-picture conceptual explainers. (These are all based on real docs that I've published, but any company/product names have been anonymized.)
 
 :memo: [Integration Options](https://samples.alexakreizinger.com/integration-options)
 : A product overview that compares the two available integration options for ProductABC.
@@ -36,13 +36,13 @@ Everything from step-by-step installation guides to big-picture conceptual overv
 : An integration walkthrough that explains how to configure Okta single sign-on access for the CompanyName Dashboard.
 
 ## API docs
-I wish I could share more samples of the actual API/SDK docs that I've worked on in the past, but most of them were for private audiences only... so I improvised by designing my own (non-functional) API and documenting that instead.
+I wish I could share the actual APIs and SDKs I've worked on, but it's hard to do that without divulging sensitive product info... so, for the sake of this sample collection, I opted to design my own mock API and document that instead.
 
 :computer: [Pigeon Protocol API](https://samples.alexakreizinger.com/api/pigeon-protocol)
 : An API reference for the fictitious Pigeon Protocol service.
 
 ## Content marketing
-Not your typical tech writer fare, but I reported to Marketing during one role and wrote enough marketing-focused materials on the side to warrant including a few here. (Like the [user guides](#user-guides), these are real samples—minus any identifying details.)
+Not your typical tech writer fare, but I reported to Marketing at one point and wrote enough marketing-led docs to warrant including some here. (Like the [user guides](#user-guides), these are real samples—minus any identifying details.)
 
 :books: [User Risk Factors](https://samples.alexakreizinger.com/blog/risk-factors/)
 : A short blog post that explains some of the most common user risk factors flagged by CompanyName’s fraud detection algorithm.
