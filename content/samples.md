@@ -6,7 +6,7 @@ aliases:
     - /portfolio
     - /writing-samples
 ---
-During my time as a technical writer, I've written a *lot* of documentation—but don't just take my word for it!
+During my time as a technical writer, I've written a *lot* of documentation—but don't just take my word for it! Here are some examples of the kinds of docs I've worked on over the years.
 
 ## User guides
 Everything from step-by-step installation guides to big-picture conceptual explainers. (These are based on real docs that I've published, but all company and product names have been anonymized.)
