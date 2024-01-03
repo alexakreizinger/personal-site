@@ -9,7 +9,7 @@ aliases:
 During my time as a technical writer, I've written a *lot* of documentation—but don't just take my word for it!
 
 ## User guides
-Everything from step-by-step installation guides to big-picture conceptual explainers. (These are all based on real docs that I've published, but any company/product names have been anonymized.)
+Everything from step-by-step installation guides to big-picture conceptual explainers. (These are based on real docs that I've published, but all company and product names have been anonymized.)
 
 :memo: [Integration Options](https://samples.alexakreizinger.com/integration-options)
 : A product overview that compares the two available integration options for ProductABC.
@@ -42,7 +42,7 @@ I wish I could share the actual APIs and SDKs I've worked on, but it's hard to d
 : An API reference for the fictitious Pigeon Protocol service.
 
 ## Content marketing
-Not your typical tech writer fare, but I reported to Marketing at one point and wrote enough marketing-led docs to warrant including some here. (Like the [user guides](#user-guides), these are real samples—minus any identifying details.)
+Not your typical tech writer fare, but I reported to Marketing at one point and wrote enough marketing-led docs to warrant including these here. (Like the [user guides](#user-guides), they're all real samples—minus any identifying details.)
 
 :books: [User Risk Factors](https://samples.alexakreizinger.com/blog/risk-factors/)
 : A short blog post that explains some of the most common user risk factors flagged by CompanyName’s fraud detection algorithm.
